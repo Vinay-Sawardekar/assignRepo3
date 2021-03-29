@@ -1,4 +1,4 @@
-Hi This is newb1.
-this refers to newb1 branch line 1
-this refers to newb1 branch line 2
-this refers to newb1 branch line 3
+Hi This is newb2.
+this refers to newb2 branch line 4
+this refers to newb2 branch line 2
+this refers to newb2 branch line 5
