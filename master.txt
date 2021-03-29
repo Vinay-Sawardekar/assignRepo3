@@ -1,3 +1,4 @@
-Hi This is master.
-this refers to master branch line 1
-this refers to master branch line 2
+Hi This is newb1.
+this refers to newb1 branch line 1
+this refers to newb1 branch line 2
+this refers to newb1 branch line 3
