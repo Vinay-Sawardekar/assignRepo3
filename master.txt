@@ -3,3 +3,6 @@ this refers to master branch line 1
 this refers to master branch line 2
 this refers to master branch line 3
 this refers to master branch line 4
+this refers to master branch line 4
+this refers to master branch line 2
+this refers to master branch line 5
